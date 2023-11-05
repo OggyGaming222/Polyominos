@@ -12,4 +12,4 @@ This game presents you in 4 modes in 4 ways of FUN!
 
 For how to play in this mode? Go play it and found out by yourself!
 
-(Note : None of these being made yet)
+(Note : None of these being made yet besides Traditional Mode currently)
